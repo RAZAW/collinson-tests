@@ -42,7 +42,7 @@ public class CityBikesAPITests {
                 longitude = String.valueOf(location.get("longitude"));
             }
         }
-        System.out.println("For city Frankfurt, the country is " + country+ ". It's latitude is " + latitude  +" and longitude is " + longitude);
+        System.out.println("For city Frankfurt, the country is " + country + ". It's latitude is " + latitude  +" and longitude is " + longitude);
 
     }
 
